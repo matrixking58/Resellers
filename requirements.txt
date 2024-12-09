@@ -1,0 +1,14 @@
+telebot 
+timedelta 
+pytz 
+flask 
+aiogram 
+pyTelegramBotAPI 
+python-telegram-bot
+pymongo
+aiohttp
+redis
+asyncio
+supabase
+psycopg2
+psycopg2-binary
