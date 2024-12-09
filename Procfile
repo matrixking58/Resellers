@@ -1,1 +1,1 @@
-worker: python clutch.py
+worker: python resellers.py
